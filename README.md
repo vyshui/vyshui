@@ -1,5 +1,7 @@
 CODSOFT-INTERNSHIP
-       I have completwd tasks given for my internship as a web developer in codsoft. I hope it will be useful for you 
+       I have completwd tasks given for my internship as a web developer in codsoft. I hope it will be useful for you.
+
+       
 (Level 1)
 
 Task 1:- LANDING PAGE A landing page is an ideal web development project for beginners. It requires basic knowledge of HTML and CSS.
